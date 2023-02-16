@@ -1,0 +1,6 @@
+(function(Saola) {
+	var docData = {"ascene":{"aa":true,"autoKeyTime":0,"currentTime":0,"id":1,"k":8,"n":"Across-Scene Layer","rp":[[0,0,{"f":[0],"fe":[0,0,100,100,100,0,0,0],"l":["none"],"pso":[50,50,1200,1],"r":[0,0,"100%","100%",0]}]],"sceneLayer":1,"st":[0,0],"timelines":[{"dur":0,"id":1,"n":"Timeline"}]},"dur":60096,"h":484,"k":103425,"mm":[0,1],"mpv":2,"resourceFolder":"resources","resources":[[1,2,"index video2",["index video2.mp4"]]],"scenes":[{"aa":true,"autoKeyTime":0,"currentTime":0,"elems":[{"ap":true,"ct":false,"id":1,"k":2,"lo":false,"n":"index video2","pl":true,"rp":[[0,0,{"f":[0],"fe":[0,0,100,100,100,0,0,0],"l":["none"],"r":[0,0,860,484,0]}]],"rs":1,"vol":100}],"id":1,"k":8,"n":"Scene_1","rp":[[0,0,{"f":[1,255,255,255,255],"fe":[0,0,100,100,100,0,0,0],"l":["none"],"pso":[50,50,1200,1],"r":[0,0,860,484,0]}]],"sceneLayer":0,"st":[0,0],"timelines":[{"dur":60096,"id":1,"n":"Timeline","ra":[[0,0,[[1,[["pb",[{"a":[1,0,1],"d":60096,"t":0}]]],{}]]]]}]}],"v":5,"w":860};
+	var f = [];
+	docData.f = f;
+	Saola.loadedDocs.push(docData);
+}(AtomiSaola)); 

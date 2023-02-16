@@ -1,0 +1,6 @@
+(function(Saola) {
+	var docData = {"ascene":{"aa":true,"autoKeyTime":0,"currentTime":0,"id":1,"k":8,"n":"Across-Scene Layer","rp":[[0,0,{"f":[0],"fe":[0,0,100,100,100,0,0,0],"l":["none"],"pso":[50,50,1200,1],"r":[0,0,"100%","100%",0]}]],"sceneLayer":1,"st":[0,0],"timelines":[{"dur":0,"id":1,"n":"Timeline"}]},"dur":10048,"h":141,"k":129537,"mm":[0,1],"mpv":2,"resourceFolder":"resources","resources":[[1,2,"Entrega Final Proyecto 01_2",["Entrega Final Proyecto 01_2.mp4"]]],"scenes":[{"aa":true,"autoKeyTime":0,"currentTime":10000,"elems":[{"ap":true,"ct":false,"id":1,"k":2,"lo":true,"n":"Entrega Final Proyecto 01_2","pl":true,"rp":[[0,0,{"f":[0],"fe":[0,0,100,100,100,0,0,0],"l":["none"],"r":[0,0,250,140,0]}]],"rs":1,"vol":100}],"id":1,"k":8,"n":"Scene_1","rp":[[0,0,{"f":[1,255,255,255,255],"fe":[0,0,100,100,100,0,0,0],"l":["none"],"pso":[50,50,1200,1],"r":[0,0,250,141,0]}]],"sceneLayer":0,"st":[0,0],"timelines":[{"dur":10048,"id":1,"n":"Timeline","ra":[[0,0,[[1,[["pb",[{"a":[1,0,1],"d":10048,"t":0}]]],{}]]]],"t":[[10000,[[1,-1,1,0]]]]}]}],"v":5,"w":250};
+	var f = [];
+	docData.f = f;
+	Saola.loadedDocs.push(docData);
+}(AtomiSaola)); 
